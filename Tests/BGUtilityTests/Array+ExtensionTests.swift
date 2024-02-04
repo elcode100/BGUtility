@@ -21,5 +21,4 @@ final class Array_ExtensionTests: XCTestCase {
         let num1 = numbers[safeIndex: 10]
         XCTAssert(num1 == nil)
     }
-    
 }
